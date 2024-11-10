@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Takes a 1'bA + 1'bB, outputs Sum and Cout.
 
 ## How to test
 
-Explain how to use your project
+Test by checking design against A + B.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LEDS were used for testing.
